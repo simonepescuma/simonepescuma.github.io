@@ -1,0 +1,253 @@
+/* =====================================================
+   VARIABILI PRINCIPALI
+   Modifica qui colori, font e dimensioni globali
+===================================================== */
+
+:root {
+  --primary-color: #2563eb;
+  --secondary-color: #1e293b;
+  --background-color: #ffffff;
+  --text-color: #334155;
+  --light-gray: #f1f5f9;
+  --border-color: #e2e8f0;
+  --font-main: "Inter", Arial, sans-serif;
+  --max-width: 1100px;
+}
+
+/* =====================================================
+   RESET BASE
+===================================================== */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--background-color);
+  color: var(--text-color);
+  font-family: var(--font-main);
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+
+/* =====================================================
+   CONTENITORE PRINCIPALE
+   Compatibile con <div class="wrapper">
+===================================================== */
+
+.wrapper {
+  width: 90%;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  gap: 50px;
+}
+
+
+/* =====================================================
+   HEADER LATERALE
+===================================================== */
+
+header {
+  padding-top: 40px;
+  position: sticky;
+  top: 20px;
+  height: fit-content;
+}
+
+
+header h1 {
+  margin: 0 0 15px;
+  font-size: 2rem;
+}
+
+header h1 a {
+  color: var(--secondary-color);
+  text-decoration: none;
+}
+
+header h1 a:hover {
+  color: var(--primary-color);
+}
+
+/* Logo */
+
+header img {
+  width: 160px;
+  height: auto;
+  border-radius: 10px;
+  margin: 20px 0;
+}
+
+/* Descrizione */
+
+header p {
+  color: #64748b;
+}
+
+/* =====================================================
+   LINK
+===================================================== */
+
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* =====================================================
+   MENU NAVIGAZIONE
+   (se aggiungi <nav>)
+===================================================== */
+
+nav {
+  margin-top: 25px;
+}
+
+nav a {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+/* =====================================================
+   CONTENUTO PRINCIPALE
+   Compatibile con <section>
+===================================================== */
+
+section {
+  padding-top: 40px;
+}
+
+/* Titoli */
+h1,
+h2,
+h3 {
+  color: var(--secondary-color);
+}
+
+h2 {
+  margin-top: 40px;
+  border-bottom: 2px solid var(--border-color);
+  padding-bottom: 10px;
+}
+
+/* =====================================================
+   IMMAGINI NEL CONTENUTO
+===================================================== */
+
+section img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+/* =====================================================
+   CODICE PROGRAMMAZIONE
+===================================================== */
+
+code {
+  background: var(--light-gray);
+  padding: 3px 6px;
+  border-radius: 5px;
+}
+
+pre {
+  background: #0f172a;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  overflow-x: auto;
+}
+
+/* =====================================================
+   BOX PROGETTI / CARD
+===================================================== */
+
+.card {
+  background: white;
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 20px;
+  margin: 20px 0;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+}
+
+.card h3 {
+  margin-top: 0;
+}
+
+/* =====================================================
+   FOOTER
+===================================================== */
+
+footer {
+  grid-column: 1 / -1;
+  border-top: 1px solid var(--border-color);
+  margin-top: 50px;
+  padding: 25px 0;
+  text-align: center;
+  color: #64748b;
+}
+
+
+/* =====================================================
+   PULSANTI
+===================================================== */
+
+.button {
+  display: inline-block;
+  background: var(--primary-color);
+  color: white;
+  padding: 10px 18px;
+  border-radius: 8px;
+  font-weight: bold;
+}
+.button:hover {
+  opacity: .85;
+  text-decoration: none;
+}
+
+
+/* =====================================================
+   MOBILE RESPONSIVE
+===================================================== */
+
+@media (max-width: 800px) {
+  .wrapper {
+    display: block;
+    width: 90%;
+  }
+  header {
+    position: static;
+    text-align: center;
+  }
+  header img {
+
+    width: 120px;
+
+  }
+  nav a {
+
+    display: inline-block;
+
+    margin: 5px 10px;
+
+  }
+  section {
+
+    padding-top: 20px;
+
+  }
+}
