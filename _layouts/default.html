@@ -23,6 +23,13 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+        <nav>
+        <a href="/">Home</a>
+        <a href="/about">Chi sono</a>
+        <a href="/projects">Progetti</a>
+        <a href="/contact">Contatti</a>
+        </nav>
+
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
