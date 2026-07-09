@@ -17,4 +17,4 @@ Journal of Computational Physics, 2025
 
 - 📄 [arXiv](https://arxiv.org/abs/2504.18209)
 - 📚 [HAL](https://inria.hal.science/hal-04821539/)
-- 📰 [Journal / DOI](https://doi.org/10.1016/j.jcp.2025.114009)
+- 📰 [Journal of Computational Physics](https://doi.org/10.1016/j.jcp.2025.114009)
