@@ -99,20 +99,13 @@ a:hover{
 /* ==========================================================
    LAYOUT
 ==========================================================*/
-
-.wrapper{
+.wrapper {
 
     width:90%;
 
     max-width:var(--max-width);
 
     margin:auto;
-
-    display:grid;
-
-    grid-template-columns:280px 1fr;
-
-    gap:50px;
 
 }
 
