@@ -162,9 +162,13 @@ header img{
 
 }
 
-header p{
+header p {
 
-    color:#64748b;
+    color:white;
+
+    opacity:0.9;
+
+    margin-top:10px;
 
 }
 
