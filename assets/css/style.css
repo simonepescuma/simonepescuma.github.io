@@ -133,17 +133,23 @@ header{
 
 }
 
+header h1 a {
+  color: #991212;
+  text-decoration: none;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  transition: color 0.2s ease;
+}
+
+header h1 a:hover {
+  color: #b91c1c;   /* Rosso leggermente più chiaro al passaggio del mouse */
+}
+
 header h1{
 
     margin-bottom:15px;
 
     font-size:2rem;
-
-}
-
-header h1 a{
-
-    color:var(--secondary-color);
 
 }
 
