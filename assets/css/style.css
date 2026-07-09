@@ -114,15 +114,15 @@ a:hover{
    HEADER
 ==========================================================*/
 
-header{
+header {
 
-    padding-top:40px;
+    padding-top:30px;
 
-    position:sticky;
+    text-align:center;
 
-    top:20px;
+    border-bottom:1px solid var(--border-color);
 
-    height:fit-content;
+    padding-bottom:25px;
 
 }
 
@@ -167,21 +167,20 @@ header p{
    MENU
 ==========================================================*/
 
-nav{
+nav {
 
-    margin-top:25px;
+    margin-top:20px;
 
 }
 
-nav a{
 
-    display:block;
+nav a {
 
-    margin-bottom:12px;
+    display:inline-block;
+
+    margin:0 15px;
 
     font-weight:600;
-
-    transition:.2s;
 
 }
 
@@ -450,19 +449,15 @@ th{
    FOOTER
 ==========================================================*/
 
-footer{
-
-    grid-column:1/-1;
+footer {
 
     margin-top:60px;
 
-    padding:25px 0;
-
     border-top:1px solid var(--border-color);
 
-    text-align:center;
+    padding:25px 0;
 
-    color:#64748b;
+    text-align:center;
 
 }
 
