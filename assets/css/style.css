@@ -118,15 +118,17 @@ header {
 
     background: #991212;
 
-    color: white;
+    color:white;
 
-    padding: 30px 20px;
+    padding:30px 20px;
 
-    text-align: center;
+    text-align:center;
 
-    border-radius: 0 0 15px 15px;
+    width:100vw;
 
-    margin-bottom: 40px;
+    margin-left:calc(50% - 50vw);
+
+    margin-bottom:40px;
 
 }
 
@@ -140,10 +142,6 @@ header h1 a {
 
     letter-spacing:0.5px;
 
-}
-
-header h1 a:hover {
-  color: #b91c1c;   /* Rosso leggermente più chiaro al passaggio del mouse */
 }
 
 header h1{
@@ -181,7 +179,6 @@ nav {
 
 }
 
-
 nav a {
 
     display:inline-block;
@@ -190,11 +187,21 @@ nav a {
 
     font-weight:600;
 
+    color:white;
+
+    text-decoration:none;
+
+    transition:opacity 0.2s ease;
+
 }
 
-nav a:hover{
+nav a:hover {
 
-    color:var(--primary-color);
+    color:white;
+
+    opacity:0.75;
+
+    text-decoration:none;
 
 }
 
