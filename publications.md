@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 
-**SUBMITTED PAPERS**
+##SUBMITTED PAPERS
 ---
 
 S.P., G. Gabard, T. Chaumont-Frelet, A. Modave (2026)<br>
@@ -12,7 +12,7 @@ S.P., G. Gabard, T. Chaumont-Frelet, A. Modave (2026)<br>
 
 ---
 
-**PEER-REVIEWED JOURNAL PAPERS**
+##PEER-REVIEWED JOURNAL PAPERS
 ---
 
 S.P., G. Gabard, T. Chaumont-Frelet, A. Modave (2025)<br>
@@ -21,7 +21,7 @@ S.P., G. Gabard, T. Chaumont-Frelet, A. Modave (2025)<br>
 
 ---
 
-**THESIS**
+##THESIS
 ---
 
 S.P. (2025)<br>
