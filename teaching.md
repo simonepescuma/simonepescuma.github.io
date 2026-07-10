@@ -1,3 +1,8 @@
+---
+layout: default
+title: Teaching
+---
+
 During my PhD and post-doc, I was involved in some teaching activities concerning several engineering courses (Level “Bachelor 3”) at ENSTA (Palaiseau, France) and ENPC (Champs-sur-Marne, France).
 
 ---
