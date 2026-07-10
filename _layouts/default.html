@@ -80,5 +80,33 @@ if (button && menu) {
 }
 
 </script>
+
+    <script>
+
+const button = document.querySelector(".menu-toggle");
+const menu = document.querySelector("#main-menu");
+
+if (button && menu) {
+
+    button.addEventListener("click", function() {
+
+        menu.classList.toggle("open");
+
+        if(menu.classList.contains("open")){
+
+            button.innerHTML = "✕";
+
+        } else {
+
+            button.innerHTML = "☰";
+
+        }
+
+    });
+
+}
+
+</script>
+    
   </body>
 </html>
