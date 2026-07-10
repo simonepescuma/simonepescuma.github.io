@@ -1,4 +1,4 @@
-**PREPRINTS**
+**SUBMITTED PAPERS**
 ---
 
 S.P., G. Gabard, T. Chaumont-Frelet, A. Modave (2026)
@@ -9,7 +9,7 @@ S.P., G. Gabard, T. Chaumont-Frelet, A. Modave (2026)
 
 ---
 
-**PUBLICATIONS**
+**PEER-REVIEWED JOURNAL PAPERS**
 ---
 
 S.P., G. Gabard, T. Chaumont-Frelet, A. Modave (2025)
