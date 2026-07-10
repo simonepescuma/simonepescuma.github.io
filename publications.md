@@ -46,8 +46,20 @@ THESIS
 
 S.P. (2025)<br>
 **Discontinuous Galerkin finite element methods with transmission variables for time-harmonic wave propagation**<br>
-[[link]](https://theses.fr/s347043)
+<div class="paper-links">
+
+  <a href="https://theses.fr/s347043" target="_blank" rel="noopener noreferrer">
+    Link
+  </a>
+
+</div>
 
 S.P. (2023)<br>
 **A Trefftz discontinuous Galerkin method with absorbing boundary conditions for the numerical simulation of the Helmholtz problem**<br>
-[[link]](https://www.politesi.polimi.it/handle/10589/203292)
+<div class="paper-links">
+
+  <a href="https://www.politesi.polimi.it/handle/10589/203292" target="_blank" rel="noopener noreferrer">
+    Link
+  </a>
+
+</div>
