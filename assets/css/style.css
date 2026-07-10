@@ -220,7 +220,6 @@ nav {
 
 }
 
-
 nav a {
 
     display:inline-block;
@@ -583,5 +582,33 @@ nav {
     justify-content:center;
 
 }
+
+   nav {
+
+        display:none;
+
+        flex-direction:column;
+
+        width:100%;
+
+        margin-top:15px;
+
+    }
+
+
+    nav.open {
+
+        display:flex;
+
+    }
+
+
+    nav a {
+
+        width:100%;
+
+        text-align:center;
+
+    }
    
 }
