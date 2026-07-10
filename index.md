@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 ## New submitted paper
 
 <div class="featured-paper">
