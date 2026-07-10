@@ -115,15 +115,6 @@ a:hover{
 
 }
 
-.mobile-description {
-    display:none;
-}
-
-
-.desktop-description {
-    display:block;
-}
-
 /* ==========================================================
    HEADER / NAVBAR
 ==========================================================*/
@@ -632,15 +623,6 @@ footer {
 
         display:inline;
 
-    }
-
-    .desktop-description {
-        display:none;
-    }
-
-
-    .mobile-description {
-        display:block;
     }
 
 }
