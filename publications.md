@@ -1,4 +1,5 @@
-- Preprints:
+**PREPRINTS**
+---
 
 S.P., G. Gabard, T. Chaumont-Frelet, A. Modave (2026)
 
@@ -8,7 +9,8 @@ S.P., G. Gabard, T. Chaumont-Frelet, A. Modave (2026)
 
 ---
 
-- Publications:
+**PUBLICATIONS**
+---
 
 S.P., G. Gabard, T. Chaumont-Frelet, A. Modave (2025)
 
@@ -18,7 +20,8 @@ S.P., G. Gabard, T. Chaumont-Frelet, A. Modave (2025)
 
 ---
 
-- Thesis:
+**THESIS**
+---
 
 S.P. (2025)
 
