@@ -3,7 +3,7 @@ layout: default
 title: Talks
 ---
 
-##INTERNATIONAL CONFERENCES
+INTERNATIONAL CONFERENCES
 ---
 
 S.P., G. Gabard, T. Chaumont-Frelet, A. Modave<br>
