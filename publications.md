@@ -8,7 +8,14 @@ SUBMITTED PAPERS
 
 S.P., G. Gabard, T. Chaumont-Frelet, A. Modave (2026)<br>
 **A HDG method with transmission variables for time-harmonic wave propagation problems with constant coefficients**<br>
-*Submitted for publication* [[preprint]](https://hal.science/hal-05654780)
+*Submitted for publication*
+<div class="paper-links">
+
+  <a href="https://hal.science/hal-05654780" target="_blank" rel="noopener noreferrer">
+    Preprint
+  </a>
+
+</div>
 
 ---
 
@@ -17,8 +24,21 @@ PEER-REVIEWED JOURNAL PAPERS
 
 S.P., G. Gabard, T. Chaumont-Frelet, A. Modave (2025)<br>
 **A hybridizable discontinuous Galerkin method with transmission variables for time-harmonic acoustic problems in heterogeneous media**<br>
-*Journal of Computational Physics* [[link]](https://doi.org/10.1016/j.jcp.2025.114009) [[preprint]](https://inria.hal.science/hal-04821539/)
+*Journal of Computational Physics*
+<div class="paper-links">
 
+  <a href="https://doi.org/10.1016/j.jcp.2025.114009" target="_blank" rel="noopener noreferrer">
+    Link
+  </a>
+
+</div>
+<div class="paper-links">
+
+  <a href="https://inria.hal.science/hal-04821539/" target="_blank" rel="noopener noreferrer">
+    Preprint
+  </a>
+
+</div>
 ---
 
 THESIS
