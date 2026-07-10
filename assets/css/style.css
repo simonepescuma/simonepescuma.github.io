@@ -109,6 +109,11 @@ a:hover{
 
 }
 
+.mobile-break {
+
+    display:none;
+
+}
 
 /* ==========================================================
    HEADER / NAVBAR
@@ -611,6 +616,12 @@ footer {
     section{
 
         padding-top:25px;
+
+    }
+
+    .mobile-break {
+
+        display:inline;
 
     }
 
