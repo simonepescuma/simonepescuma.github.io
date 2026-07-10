@@ -4,7 +4,7 @@
 
   <div class="paper-text">
 
-    <p><strong>S. Pescuma, G. Gabard, T. Chaumont-Frelet, A. Modave (2026)</strong></p>
+    S. Pescuma, G. Gabard, T. Chaumont-Frelet, A. Modave (2026)
 
     <h3>
       A HDG method with transmission variables for time-harmonic wave propagation problems with constant coefficients
