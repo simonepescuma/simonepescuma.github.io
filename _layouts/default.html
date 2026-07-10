@@ -64,5 +64,21 @@
 </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script>
+
+const button = document.querySelector(".menu-toggle");
+const menu = document.querySelector("#main-menu");
+
+if (button && menu) {
+
+    button.addEventListener("click", function() {
+
+        menu.classList.toggle("open");
+
+    });
+
+}
+
+</script>
   </body>
 </html>
