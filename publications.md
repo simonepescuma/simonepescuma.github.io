@@ -31,9 +31,6 @@ S.P., G. Gabard, T. Chaumont-Frelet, A. Modave (2025)<br>
     Link
   </a>
 
-</div>
-<div class="paper-links">
-
   <a href="https://inria.hal.science/hal-04821539/" target="_blank" rel="noopener noreferrer">
     Preprint
   </a>
