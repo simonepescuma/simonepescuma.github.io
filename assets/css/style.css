@@ -111,28 +111,59 @@ a:hover{
 
 
 /* ==========================================================
-   HEADER
+   HEADER / NAVBAR
 ==========================================================*/
 
 header {
 
-    background: #991212;
+    background:#991212;
 
     color:white;
 
-    padding:30px 20px;
+    position:sticky;
 
-    text-align:center;
+    top:0;
+
+    z-index:1000;
 
     width:100vw;
 
     margin-left:calc(50% - 50vw);
 
-    margin-bottom:40px;
+    box-shadow:0 3px 12px rgba(0,0,0,.15);
 
 }
 
-header h1 a {
+
+.navbar {
+
+    max-width:1100px;
+
+    margin:auto;
+
+    padding:12px 20px;
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+}
+
+
+/* Nome sito */
+
+.site-info h1 {
+
+    margin:0;
+
+    font-size:1.8rem;
+
+}
+
+
+.site-info h1 a {
 
     color:white;
 
@@ -140,35 +171,33 @@ header h1 a {
 
     font-weight:700;
 
-    letter-spacing:0.5px;
+    letter-spacing:.5px;
 
 }
 
-header h1{
 
-    margin-bottom:15px;
+/* Descrizione sotto il titolo */
 
-    font-size:2rem;
+.site-description {
 
-}
+    margin:2px 0 0 0;
 
-header img{
+    color:#f8dddd;
 
-    width:170px;
-
-    border-radius:12px;
-
-    margin:20px 0;
+    font-size:.85rem;
 
 }
 
-header p {
 
-    color:white;
+/* Logo opzionale */
 
-    opacity:0.9;
+header img {
 
-    margin-top:10px;
+    width:55px;
+
+    height:55px;
+
+    border-radius:50%;
 
 }
 
@@ -177,19 +206,26 @@ header p {
    MENU
 ==========================================================*/
 
+/* ==========================================================
+   MENU
+==========================================================*/
+
 nav {
 
-    margin-top:20px;
+    display:flex;
+
+    gap:8px;
+
+    align-items:center;
 
 }
+
 
 nav a {
 
     display:inline-block;
 
-    margin:0 8px;
-
-    padding:8px 16px;
+    padding:7px 14px;
 
     font-weight:600;
 
@@ -199,12 +235,10 @@ nav a {
 
     border-radius:8px;
 
-    transition:all 0.25s ease;
+    transition:.25s;
 
 }
 
-
-/* Effetto al passaggio del mouse */
 
 nav a:hover {
 
@@ -215,7 +249,6 @@ nav a:hover {
     text-decoration:none;
 
 }
-
 
 /* ==========================================================
    CONTENUTO
@@ -504,9 +537,7 @@ footer {
 
 header{
 
-    position:static;
-
-    text-align:center;
+    position:sticky;
 
 }
 
@@ -536,4 +567,21 @@ section{
 
 }
 
+   .navbar {
+
+    flex-direction:column;
+
+    gap:10px;
+
+}
+
+
+nav {
+
+    flex-wrap:wrap;
+
+    justify-content:center;
+
+}
+   
 }
