@@ -184,7 +184,7 @@ header {
 
     color:#f8dddd;
 
-    font-size:.85rem;
+    font-size:.65rem;
 
 }
 
@@ -246,6 +246,18 @@ nav a:hover {
     color:#991212;
 
     text-decoration:none;
+
+}
+
+.menu-toggle {
+
+    display:none;
+
+    background:white;
+
+    color:#991212;
+
+    border:none;
 
 }
 
@@ -533,6 +545,12 @@ footer {
     width:90%;
 
 }
+
+   .menu-toggle {
+
+        display:block;
+
+    }
 
 header{
 
