@@ -1,4 +1,4 @@
-## New Submitted Paper
+## New submitted paper
 
 <div class="featured-paper">
 
