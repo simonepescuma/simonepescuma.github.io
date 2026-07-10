@@ -22,7 +22,7 @@ title: Home
     <div class="paper-links">
 
       <a href="https://hal.science/hal-05654780" target="_blank" rel="noopener noreferrer">
-        Preprint (HAL)
+        Preprint
       </a>
 
     </div>
