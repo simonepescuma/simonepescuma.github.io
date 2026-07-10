@@ -1,3 +1,8 @@
+---
+layout: default
+title: Publications
+---
+
 **SUBMITTED PAPERS**
 ---
 
