@@ -1,3 +1,8 @@
+---
+layout: default
+title: Talks
+---
+
 **INTERNATIONAL CONFERENCES**
 ---
 
