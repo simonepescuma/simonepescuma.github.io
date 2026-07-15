@@ -758,7 +758,11 @@ nav.open{
 
 }
 
-header h1 {
+header {
   margin-left: 0;
   padding-left: 0;
+}
+
+header h1 {
+  margin-left: -10px;
 }
