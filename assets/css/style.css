@@ -757,3 +757,8 @@ nav.open{
     }
 
 }
+
+header h1 {
+  margin-left: 0;
+  padding-left: 0;
+}
