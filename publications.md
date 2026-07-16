@@ -49,6 +49,12 @@ S.P. (2025)<br>
     Link
   </a>
 
+  <a href="{{ '/assets/pdf/Pescuma_PhD_thesis.pdf' | relative_url }}"
+     target="_blank"
+     rel="noopener noreferrer">
+    PDF
+  </a>
+
 </div>
 
 S.P. (2023)<br>
