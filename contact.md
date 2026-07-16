@@ -12,15 +12,15 @@ title: Contact
 <div class="social-icons">
 
 <a href="https://www.researchgate.net/profile/Pescuma-Simone?ev=hdr_xprf" target="_blank">
-<img src="{{ "/assets/icons/researchgate.jpeg" | relative_url }}" width="35">
+<img src="{{ "/assets/images/researchgate.jpeg" | relative_url }}" width="35">
 </a>
 
 <a href="https://orcid.org/0009-0004-7031-8070" target="_blank">
-<img src="{{ "/assets/icons/orcid.png" | relative_url }}" width="35">
+<img src="{{ "/assets/images/orcid.png" | relative_url }}" width="35">
 </a>
 
 <a href="https://www.linkedin.com/in/simonepescuma/" target="_blank">
-<img src="{{ "/assets/icons/linkedin.png" | relative_url }}" width="35">
+<img src="{{ "/assets/images/linkedin.png" | relative_url }}" width="35">
 </a>
 
 </div>
