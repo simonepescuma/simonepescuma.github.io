@@ -3,8 +3,6 @@ layout: default
 title: Teaching
 ---
 
----
-
 **Partial differential equations: variational approaches**<br>
 *Spring 2026*<br>
 Teacher: Frédéric Legoll (ENPC)<br>
