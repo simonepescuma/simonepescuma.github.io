@@ -9,6 +9,17 @@ SUBMITTED PAPERS
 S.P., G. Gabard, T. Chaumont-Frelet, A. Modave (2026)<br>
 **A HDG method with transmission variables for time-harmonic wave propagation problems with constant coefficients**<br>
 *Submitted for publication*
+<div class="abstract-container">
+
+  <button class="abstract-button" onclick="toggleAbstract(this)">
+    Abstract
+  </button>
+
+  <div class="abstract-text">
+    Iterative finite element solvers for time-harmonic wave problems are notoriously slow to converge, owing to fundamental properties of these problems. We present a variant of the hybridizable discontinuous Galerkin (HDG) method that is better suited to fast iterative solution. Unlike the standard hybridization strategy, which eliminates physical unknowns by introducing an auxiliary numerical flux on element faces, our approach instead introduces a transmission variable on those faces. For Helmholtz problems, this reformulation, known as CHDG, has been shown to significantly accelerate the convergence of iterative schemes relative to standard HDG. The present work extends CHDG to a general framework covering wave propagation problems with constant coefficients, capable of handling diverse wave types in a unified manner. We prove that the resulting hybridized system is well-posed and amenable to fixed-point iteration. As a practical application, we apply the method to the time-harmonic linearized Euler equations with a uniform subsonic mean flow. The method is illustrated through two-dimensional numerical benchmarks involving both sound and vorticity waves, with a systematic comparison of the convergence behaviour of several iterative schemes across a range of configurations. 
+  </div>
+
+</div>
 <div class="paper-links">
 
   <a href="https://hal.science/hal-05654780" target="_blank" rel="noopener noreferrer">
@@ -25,6 +36,18 @@ PEER-REVIEWED JOURNAL PAPERS
 S.P., G. Gabard, T. Chaumont-Frelet, A. Modave (2025)<br>
 **A hybridizable discontinuous Galerkin method with transmission variables for time-harmonic acoustic problems in heterogeneous media**<br>
 *Journal of Computational Physics*
+
+<div class="abstract-container">
+
+  <button class="abstract-button" onclick="toggleAbstract(this)">
+    Abstract
+  </button>
+
+  <div class="abstract-text">
+    We consider the finite element solution of time-harmonic wave propagation problems in heterogeneous media with hybridizable discontinuous Galerkin (HDG) methods. In the case of homogeneous media, it has been observed that the iterative solution of the linear system can be accelerated by hybridizing with transmission variables instead of numerical traces, as performed in standard approaches. In this work, we extend the HDG method with transmission variables, which is called the CHDG method, to the heterogeneous case with piecewise constant physical coefficients. In particular, we consider formulations with standard upwind and general symmetric fluxes. The CHDG hybridized system can be written as a fixed-point problem, which can be solved with stationary iterative schemes for a class of symmetric fluxes. The standard HDG and CHDG methods are systematically studied with the different numerical fluxes by considering a series of 2D numerical benchmarks. The convergence of standard iterative schemes is always faster with the extended CHDG method than with the standard HDG methods, with upwind and scalar symmetric fluxes.
+  </div>
+
+</div>
 <div class="paper-links">
 
   <a href="https://doi.org/10.1016/j.jcp.2025.114009" target="_blank" rel="noopener noreferrer">
