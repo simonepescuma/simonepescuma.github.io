@@ -65,4 +65,10 @@ S.P. (2023)<br>
     Link
   </a>
 
+  <a href="{{ '/assets/pdf/Pescuma_Polimi_thesis.pdf' | relative_url }}"
+     target="_blank"
+     rel="noopener noreferrer">
+    PDF
+  </a>
+
 </div>
