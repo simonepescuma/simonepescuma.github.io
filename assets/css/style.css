@@ -740,6 +740,18 @@ footer {
 
 }
 
+.featured-paper .paper-authors {
+
+    font-size:0.9rem;
+
+    color:#64748b;
+
+    font-style:italic;
+
+    margin-bottom:4px;
+
+}
+
 /* ==========================================================
    MOBILE
 ==========================================================*/
