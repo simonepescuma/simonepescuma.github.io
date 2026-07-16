@@ -615,6 +615,10 @@ footer {
 
     border-radius:20px;
 
+    transition:.25s;
+
+    text-decoration:none;
+
 }
 
 
@@ -623,6 +627,8 @@ footer {
     background:#991212;
 
     color:white;
+
+    text-decoration:none;
 
 }
 
