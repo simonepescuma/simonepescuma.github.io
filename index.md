@@ -9,7 +9,9 @@ title: SIMONE PESCUMA
 
   <div class="paper-text">
 
+<div class="paper-authors">
     S. Pescuma, G. Gabard, T. Chaumont-Frelet, A. Modave (2026)
+</div>
 
     <h3>
       A HDG method with transmission variables for time-harmonic wave propagation problems with constant coefficients
