@@ -738,13 +738,15 @@ footer {
 
     line-height:1.4;
 
+    margin-top:5px;
+
 }
 
 .featured-paper .paper-authors {
 
     font-size:1.0rem;
 
-    color:#000000;
+    color:var(--text-color);
 
     font-style:italic;
 
