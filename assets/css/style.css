@@ -210,14 +210,6 @@ header img {
 
 }
 
-.paper-links a {
-    display: inline-block;
-    margin-right: 10px;
-    padding: 8px 14px;
-    background: #f1f5f9;
-    border-radius: 20px;
-}
-
 .paper-links {
     display: flex;
     gap: 10px;
@@ -448,17 +440,6 @@ pre{
    PUBBLICAZIONI
 ==========================================================*/
 
-/*
-Ogni articolo va racchiuso in:
-
-<div class="paper">
-
-...
-
-</div>
-
-*/
-
 .paper{
 
     background:#fafafa;
@@ -677,6 +658,8 @@ footer {
     background:#f1f5f9;
 
     border-radius:20px;
+
+    font-size:0.8rem; 
 
     transition:.25s;
 
