@@ -706,6 +706,39 @@ footer {
     font-size: 0.85rem;
 }
 
+/* ==========================================================
+   HOME - FEATURED PAPER ABSTRACT
+==========================================================*/
+
+.featured-paper .abstract {
+
+    background:#f1f5f9;
+
+    padding:20px;
+
+    border-radius:12px;
+
+    text-align:justify;
+
+    font-size:0.85rem;
+
+    line-height:1.7;
+
+}
+
+.featured-paper h3 {
+
+    background:#991212;
+
+    color:white;
+
+    padding:15px 20px;
+
+    border-radius:10px;
+
+    line-height:1.4;
+
+}
 
 /* ==========================================================
    MOBILE
