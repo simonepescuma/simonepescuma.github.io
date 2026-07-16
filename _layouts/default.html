@@ -117,6 +117,30 @@ if (button && menu) {
 }
 
 </script>
+
+    <script>
+
+function toggleAbstract(button) {
+
+    const abstract = button.nextElementSibling;
+
+    if (abstract.style.display === "block") {
+
+        abstract.style.display = "none";
+
+        button.textContent = "Abstract";
+
+    } else {
+
+        abstract.style.display = "block";
+
+        button.textContent = "Hide abstract";
+
+    }
+
+}
+
+</script>
     
   </body>
 </html>
