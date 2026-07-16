@@ -216,9 +216,30 @@ header img {
     flex-wrap: wrap;
 }
 
+.abstract-container {
+
+    display:flex;
+
+    flex-wrap:wrap;
+
+    align-items:center;
+
+    gap:10px;
+
+}
+
+
+.abstract-text {
+
+    flex-basis:100%;
+
+}
+
 .abstract-button {
 
-    display:inline-block;
+    display:inline-flex;
+
+    align-items:center;
 
     margin-right:10px;
 
@@ -642,7 +663,7 @@ footer {
 
 .paper-links{
 
-    margin-top:20px;
+    margin-top:0;
 
 }
 
