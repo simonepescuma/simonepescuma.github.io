@@ -3,6 +3,38 @@ layout: default
 title: SIMONE PESCUMA
 ---
 
+<div class="profile-card">
+
+  <div class="profile-photo">
+    <img src="{{ '/assets/images/Pescuma_soutenance_20251120.jpeg' | relative_url }}"
+         alt="Simone Pescuma">
+  </div>
+
+  <div class="profile-text">
+
+    <h1>Simone Pescuma</h1>
+
+    <p>
+      Postdoctoral researcher at CERMICS (ENPC), CNRS, Inria and
+      Institut Polytechnique de Paris.
+    </p>
+
+    <p>
+      My research focuses on high-order finite element methods,
+      hybridizable discontinuous Galerkin methods,
+      domain decomposition methods and numerical methods
+      for wave propagation.
+    </p>
+
+    <p>
+      I am particularly interested in efficient iterative solvers,
+      Helmholtz problems and computational aeroacoustics.
+    </p>
+
+  </div>
+
+</div>
+
 ## New submitted paper
 
 <div class="featured-paper">
