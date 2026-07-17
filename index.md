@@ -12,23 +12,14 @@ title: SIMONE PESCUMA
 
   <div class="profile-text">
 
-    <h1>Simone Pescuma</h1>
-
     <p>
-      Postdoctoral researcher at CERMICS (ENPC), CNRS, Inria and
-      Institut Polytechnique de Paris.
+      My scientific research focuses on high-order finite element methods and hybridizable discontinuous Galerkin methods
+      with transmission variables for time-harmonic wave propagation problems for acoustics, aeroacoustics and linear elasticity
+      with both homogeneous and heterogeneous media that are suitable for efficient iterative schemes.
     </p>
 
     <p>
-      My research focuses on high-order finite element methods,
-      hybridizable discontinuous Galerkin methods,
-      domain decomposition methods and numerical methods
-      for wave propagation.
-    </p>
-
-    <p>
-      I am particularly interested in efficient iterative solvers,
-      Helmholtz problems and computational aeroacoustics.
+      I am currently working on a rubust finite volume method tailored for multiscale hyperbolic and parabolic problems.
     </p>
 
   </div>
