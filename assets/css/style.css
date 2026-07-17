@@ -160,9 +160,6 @@ header {
 
 }
 
-
-/* Nome sito */
-
 .site-info h1 {
 
     margin:0;
@@ -184,9 +181,6 @@ header {
 
 }
 
-
-/* Descrizione sotto il titolo */
-
 .site-description {
 
     margin:2px 0 0 0;
@@ -196,9 +190,6 @@ header {
     font-size:.65rem;
 
 }
-
-
-/* Logo opzionale */
 
 header img {
 
@@ -774,9 +765,15 @@ footer {
 
 .profile-text{
     flex:1;
-    background:#f8f8f8;
-    padding:30px;
+
+    background:#f1f5f9;      /* stesso grigio dell'abstract */
+
+    padding:20px;            /* stesso padding */
+
     border-radius:12px;
+
+    line-height:1.7;
+
     box-shadow:0 3px 10px rgba(0,0,0,.08);
 }
 
