@@ -754,6 +754,47 @@ footer {
 
 }
 
+.profile-card{
+    display:flex;
+    gap:40px;
+    align-items:center;
+    margin:20px 0 60px;
+}
+
+.profile-photo{
+    flex:0 0 250px;
+}
+
+.profile-photo img{
+    width:100%;
+    border-radius:12px;
+    display:block;
+    box-shadow:0 3px 10px rgba(0,0,0,.15);
+}
+
+.profile-text{
+    flex:1;
+    background:#f8f8f8;
+    padding:30px;
+    border-radius:12px;
+    box-shadow:0 3px 10px rgba(0,0,0,.08);
+}
+
+.profile-text h1{
+    margin-top:0;
+}
+
+@media (max-width:800px){
+
+.profile-card{
+    flex-direction:column;
+}
+
+.profile-photo{
+    width:220px;
+}
+
+}
 /* ==========================================================
    MOBILE
 ==========================================================*/
