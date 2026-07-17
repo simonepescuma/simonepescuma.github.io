@@ -767,6 +767,7 @@ footer {
     object-fit:cover;
     object-position:left center;
     transform:scale(1.40) translateX(-8%);
+    display:block;
 }
 
 .profile-text{
@@ -794,13 +795,11 @@ footer {
 }
 
 .profile-photo{
+    flex:0 0 220px;
     width:220px;
     height:220px;
 }
 
-.profile-photo img{
-    transform:scale(1.40) translateX(-8%);
-}
 }
 /* ==========================================================
    MOBILE
