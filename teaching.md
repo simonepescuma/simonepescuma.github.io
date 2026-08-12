@@ -4,7 +4,7 @@ title: Teaching
 ---
 
 **Partial differential equations: variational approaches**<br>
-*Spring 2026*<br>
+<a href="https://cermics.enpc.fr/~legoll/edpef.html" target="_blank" rel="noopener noreferrer"><em>*Spring 2026*</em></a><br>
 Teacher: Frédéric Legoll (ENPC)<br>
 Relevant topics: Lax-Milgram theorem, variational formulation of PDEs<br>
 Theoretical and exercise sessions (6h)<br>
