@@ -31,3 +31,10 @@ S.P., G. Gabard, T. Chaumont-Frelet, A. Modave<br>
 **HDG methods with transmission variables for Helmholtz problems**<br>
 Talk in a minisymposium at the <a href="https://www.ci2ma.udec.cl/wonapde2024/" target="_blank" rel="noopener noreferrer"><em>7th Chilean Workshop on Numerical Analysis for Partial Differential Equations (WONAPDE 2024)</em></a> <br>
 Universidad de Concepción (Concepción, Chile), January 15 – 19, 2024
+
+NATIONAL CONFERENCES
+---
+
+**A HDG method with transmission variables for time-harmonic wave propagation problems**<br>
+Invited talk at the <a href="https://jcjc_ondes.pages.math.cnrs.fr/" target="_blank" rel="noopener noreferrer"><em>5e Rencontre JCJC Ondes (JCJC Ondes 2026)</em></a> <br>
+INSA Rouen Normandie (Rouen, France), October 28 – 30, 2026
