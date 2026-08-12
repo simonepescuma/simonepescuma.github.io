@@ -12,7 +12,7 @@ Theoretical and exercise sessions (6h)<br>
 ---
 
 **Introduction to partial differential equations and to finite differences method**<br>
-*Spring 2024*, <a href="https://synapses.ensta-paris.fr/catalogue/2024-2025/ue/5/APM-3MA03-TA-introduction-a-la-discretisation-des-equations-aux-derivees-partielles?from=D2" target="_blank" rel="noopener noreferrer"><em>*Spring 2025*</em></a>, <a href="https://synapses.ensta-paris.fr/catalogue/ue/5/MA103-introduction-a-la-discretisation-des-equations-aux-derivees-partielles" target="_blank" rel="noopener noreferrer"><em>*Spring 2026*</em></a><br>
+<a href="https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/5/apm-3ma03-ta-introduction-a-la-discretisation-des-equations-aux-derivees-partielles" target="_blank" rel="noopener noreferrer"><em>*Spring 2024*</em></a>, <a href="https://synapses.ensta-paris.fr/catalogue/2024-2025/ue/5/apm-3ma03-ta-introduction-a-la-discretisation-des-equations-aux-derivees-partielles" target="_blank" rel="noopener noreferrer"><em>*Spring 2025*</em></a>, <a href="https://synapses.ensta-paris.fr/catalogue/2025-2026/ue/5/apm-3ma03-ta-introduction-a-la-discretisation-des-equations-aux-derivees-partielles" target="_blank" rel="noopener noreferrer"><em>*Spring 2026*</em></a><br>
 Teacher: Sonia Fliss (ENSTA)<br>
 Relevant topics: hyperbolic PDEs in 1D, method of characteristics, finite differences, CFL condition, stability<br>
 Exercise and computer sessions (12h)<br>
@@ -20,7 +20,7 @@ Exercise and computer sessions (12h)<br>
 ---
 
 **Dynamical systems: analysis and stability**<br>
-*Fall 2024*<br>
+<a href="https://synapses.ensta-paris.fr/catalogue/2024-2025/ue/2/apm-3ao02-ta-systemes-dynamiques-stabilite-et-commande" target="_blank" rel="noopener noreferrer"><em>*Fall 2024*</em></a><br>
 Teacher: Frédéric Jean (ENSTA)<br>
 Relevant topics: dynamical systems, ODEs, phase portrait, equilibria, stability<br>
 Exercise sessions (13h) <br>
