@@ -35,6 +35,7 @@ Universidad de Concepción (Concepción, Chile), January 15 – 19, 2024
 NATIONAL CONFERENCES
 ---
 
+S.P., G. Gabard, T. Chaumont-Frelet, A. Modave<br>
 **A HDG method with transmission variables for time-harmonic wave propagation problems**<br>
 Invited talk at the <a href="https://jcjc_ondes.pages.math.cnrs.fr/" target="_blank" rel="noopener noreferrer"><em>5e Rencontre JCJC Ondes (JCJC Ondes 2026)</em></a> <br>
 INSA Rouen Normandie (Rouen, France), October 28 – 30, 2026
