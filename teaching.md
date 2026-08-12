@@ -12,7 +12,7 @@ Theoretical and exercise sessions (6h)<br>
 ---
 
 **Introduction to partial differential equations and to finite differences method**<br>
-*Spring 2024, Spring 2025, Spring 2026*<br>
+*Spring 2024*, <a href="https://synapses.ensta-paris.fr/catalogue/ue/5/MA103-introduction-a-la-discretisation-des-equations-aux-derivees-partielles" target="_blank" rel="noopener noreferrer"><em>*Spring 2025*</em></a>, *Spring 2026* <br>
 Teacher: Sonia Fliss (ENSTA)<br>
 Relevant topics: hyperbolic PDEs in 1D, method of characteristics, finite differences, CFL condition, stability<br>
 Exercise and computer sessions (12h)<br>
