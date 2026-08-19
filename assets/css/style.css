@@ -772,15 +772,11 @@ footer {
 
 .profile-text{
     flex:1;
-
     background:#f1f5f9;     
-
     padding:20px;           
-
     border-radius:12px;     
-
     line-height:1.7;
-
+    text-align:justify;
     box-shadow:none;       
 }
 
