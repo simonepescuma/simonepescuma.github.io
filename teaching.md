@@ -3,6 +3,14 @@ layout: default
 title: Teaching
 ---
 
+**Analysis and partial differential equations (I)**<br>
+*Fall 2026*<br>
+Teacher: Virginie Ehrlacher (ENPC)<br>
+Relevant topics: Normed vector spaces, Banach spaces, Hilbert spaces, measure theory and integration<br>
+Theoretical and exercise sessions (24h)<br>
+
+---
+
 **Partial differential equations: variational approaches**<br>
 <a href="https://cermics.enpc.fr/~legoll/edpef.html" target="_blank" rel="noopener noreferrer"><em>*Spring 2026*</em></a><br>
 Teacher: Frédéric Legoll (ENPC)<br>
