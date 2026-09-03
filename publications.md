@@ -33,6 +33,7 @@ S.P., G. Gabard, T. Chaumont-Frelet, A. Modave (2026)<br>
 PEER-REVIEWED JOURNAL PAPERS
 ---
 
+**[1]**<br>
 S.P., G. Gabard, T. Chaumont-Frelet, A. Modave (2025)<br>
 **A hybridizable discontinuous Galerkin method with transmission variables for time-harmonic acoustic problems in heterogeneous media**<br>
 *Journal of Computational Physics*
