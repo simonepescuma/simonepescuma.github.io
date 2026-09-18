@@ -3,11 +3,11 @@ layout: default
 title: Teaching
 ---
 
-**Analysis and partial differential equations (I)**<br>
-*Fall 2026*<br>
+**Analysis**<br>
+*Fall and Spring 2026*<br>
 Teacher: Virginie Ehrlacher (ENPC)<br>
-Relevant topics: Normed vector spaces, Banach spaces, Hilbert spaces, measure theory and integration<br>
-Theoretical and exercise sessions (24h)<br>
+Relevant topics: Normed vector spaces, Banach spaces, Hilbert spaces, measure theory and integration, Lebesgue spaces, Fourier series, distribution theory, Fourier transform<br>
+Theoretical and exercise sessions (42h)<br>
 
 ---
 
