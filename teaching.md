@@ -4,7 +4,7 @@ title: Teaching
 ---
 
 **Analysis**<br>
-*Fall and Spring 2026*<br>
+*Fall 2026 and Spring 2027*<br>
 Teacher: Virginie Ehrlacher (ENPC)<br>
 Relevant topics: Normed vector spaces, Banach spaces, Hilbert spaces, measure theory and integration, Lebesgue spaces, Fourier series, distribution theory, Fourier transform<br>
 Theoretical and exercise sessions (42h)<br>
